@@ -20,7 +20,11 @@ Você também pode nos seguir nas redes sociais:
 
 - [Código de conduta](https://github.com/codecon-dev/codecon/blob/main/CODE_OF_CONDUCT.md)
 - [Saiba como ser um voluntário](https://github.com/codecon-dev/codecon/blob/main/CONTRIBUTING.md)
-- [Relatório evento de 2022](https://github.com/codecon-dev/codecon/blob/main/relatorios/2022.md)
+- [Relatório evento de 2022](https://docs.google.com/presentation/d/1JJgjmS4c6pxXjX-xAq_lrOGgR-fime-zDVT_4f_s0Lg/edit?usp=sharing)
+- [Relatório evento de 2021 - Edição 2](https://docs.google.com/presentation/d/1Rvq1Xfin0osOBP51DzMiF90q7cVQCRcWuXV-ya51-bE/edit#slide=id.g8a6c8f733c_0_46)
+- [Relatório evento de 2021 - Edição 1](https://docs.google.com/presentation/d/12yS7JfV3wLc0gAVwuuNHCzF5P9XgkaeVYVr_656vdXE/edit?usp=sharing)
+- [Relatório evento de 2020](https://docs.google.com/presentation/d/197OrcqPm7qMluW5-8W-rxFF6vOVweGCQKpmARrvCldY/edit?usp=sharing)
+- [Relatório evento de 2019](https://drive.google.com/file/d/1qaecwogplTbIJsL9J6XCU9MZb3EYafav/view?usp=sharing)
 
 ## Valores
 
