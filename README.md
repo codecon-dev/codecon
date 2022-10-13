@@ -14,6 +14,7 @@ Considere contribuir para ajudar a Codecon ou assine o plano gratuito para receb
 Você também pode nos seguir nas redes sociais:
 - [Instagram](https://instagram.com/codecon.dev)
 - [Twitter](https://twitter.com/codecondev)
+- [Discord](https://codecon.dev/discord)
 
 # Links úteis
 
