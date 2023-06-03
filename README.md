@@ -49,8 +49,8 @@ Você também pode nos seguir nas redes sociais:
 
 - Acreditamos nas pessoas;
 - Prezamos pela diversidade e inclusão das minorias;
-- 10% dos nossos lucros são divididos entre os voluntários que ajudaram na organização;
-- 25% dos nossos lucros são dividos com todos os palestrantes ou doados para instituições que eles escolherem;
+- Parte dos nossos lucros são divididos entre os voluntários que ajudaram na organização;
+- Parte dos nossos lucros são dividos com todos os palestrantes ou doados para instituições que eles escolherem;
 
 ### 🎉 Diversão
 
