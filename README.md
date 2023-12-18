@@ -4,6 +4,11 @@ A Codecon surgiu em 2019, em Joinville, Santa Catarina, em um evento presencial 
 
 Hoje somos um hub de eventos, lives, meetups e conteúdos, organizado por [Gabriel Nunes](https://www.linkedin.com/in/gabrielnunes/) e [Paula Caroline Gabriel](https://www.linkedin.com/in/paula-caroline-gabriel/), também possuímos diversos voluntários que ajudam na organização dos eventos, participando de brainstorming e ajudando a criar coisas para ele. Nosso objetivo é ser o mais transparente possível sobre nossa organização, por isso vamos nos comprometer a manter este repositório atualizado.
 
+## Nossos projetos
+
+- Codecon Summit: um evento presencial em Joinville/SC para devs de todas as áreas e níveis
+- Select Experience: um evento focado em profissionais sênior+
+
 ## Acompanhe a Codecon
 
 - [Assine nossa newsletter](https://codecon.substack.com/)
