@@ -1,14 +1,10 @@
 # Codecon
 
-A Codecon surgiu em 2019, em Joinville, Santa Catarina, foi um evento presencial que contou com mais de 300 pessoas desenvolvedoras da região. Em 2020, devido a pandemia do Covid-19, nos tornamos um evento online, onde já realizamos 4 edições nesse formato.
+A Codecon surgiu em 2019, em Joinville, Santa Catarina, em um evento presencial que contou com mais de 300 pessoas desenvolvedoras da região. Em 2020, devido a pandemia do Covid-19, nos tornamos um evento online, onde já realizamos 4 edições nesse formato. Em 2023 voltamos a organizar eventos presenciais.
 
-O evento é organizado pela [Onion Rings](https://onionrings.com.br) um pequeno estúdio criativo formado por [Gabriel Nunes](https://www.linkedin.com/in/gabrielnunes/) e [Paula Caroline Gabriel](https://www.linkedin.com/in/paula-caroline-gabriel/), também possuímos diversos voluntários que ajudam na organização do evento, participando de brainstorming e ajudando a criar coisas para ele. Nosso objetivo é ser o mais transparente possível sobre o evento, por isso vamos nos comprometer a manter este repositório atualizado.
+Hoje somos um hub de eventos, lives, meetups e conteúdos, organizado por [Gabriel Nunes](https://www.linkedin.com/in/gabrielnunes/) e [Paula Caroline Gabriel](https://www.linkedin.com/in/paula-caroline-gabriel/), também possuímos diversos voluntários que ajudam na organização dos eventos, participando de brainstorming e ajudando a criar coisas para ele. Nosso objetivo é ser o mais transparente possível sobre nossa organização, por isso vamos nos comprometer a manter este repositório atualizado.
 
 ## Acompanhe a Codecon
-
-A Codecon é financiada por patrocínio em seus projetos, mas também temos uma newsletter paga por R$ 10 ao mês. Ela dá direito a receber artigos exclusivos escritos pela gente sobre o mercado de tecnologia. É um canal importante para software engineers, engineers managers e qualquer pessoa que trabalha com tecnologia.
-
-Considere contribuir para ajudar a Codecon ou assine o plano gratuito para receber as edições mensais:
 
 - [Assine nossa newsletter](https://codecon.substack.com/)
 
