@@ -14,7 +14,7 @@ A Codecon Digital 2023 aconteceu nos dias 22 e 23 de junho no Gather Town, onde 
 |Número de inscritos|1.346|-618|
 |Número de patrocinadores|8|-20|
 |Quantidade única de participantes nos 3 dias de evento|836|-488|
-|Novos inscritos gratuitos em nossa newsletter|1.669|+709|
+|Novos inscritos gratuitos em nossa newsletter|458|-502|
 |Horas de conteúdo|32|-28|
 
 ### Resultado financeiro
