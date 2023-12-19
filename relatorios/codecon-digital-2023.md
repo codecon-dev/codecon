@@ -35,7 +35,7 @@ DESPESAS
 |Outras ferramentas|- R$ 51,34|
 |Criação do mapa|- R$ 4.570,00|
 |Divulgação e marketing|- R$ 30.528,75|
-|Criação de atividades paralelas|- R$ 5.900|
+|Criação de atividades paralelas|- R$ 5.900,00|
 |Edição de vídeos|- R$ 1.600,00|
 |Designer|- R$ 1.500,00|
 |Premiação + Frete|- R$ 4.431,64|
