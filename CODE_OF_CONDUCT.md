@@ -1,75 +1,98 @@
-## **Nossa promessa**
+# Código de Conduta da Codecon
 
-Como pessoas participantes, colaboradoras e líderes, nós nos comprometemos a fazer com que a participação em nossa comunidade seja uma experiência livre de assédio para todas as pessoas, independentemente de idade, tamanho do corpo, deficiência aparente ou não aparente, etnia, características sexuais, identidade ou expressão de gênero, nível de experiência, educação, situação sócio-econômica, nacionalidade, aparência pessoal, raça, religião ou identidade e orientação sexuais.
+## Nossa promessa
 
-Comprometemo-nos a agir e interagir de maneiras que contribuam para uma comunidade aberta, acolhedora, diversificada, inclusiva e saudável.
+Nós, como participantes, pessoas colaboradoras e lideranças da comunidade Codecon, nos comprometemos a manter um ambiente livre de assédio para todas as pessoas, independentemente de identidade ou expressão de gênero, orientação sexual, deficiência, aparência física, características corporais, raça, idade, religião ou ausência de religião.
 
-## **Nossos padrões**
+Nos comprometemos a agir com respeito, empatia e responsabilidade, contribuindo para uma comunidade aberta, acolhedora, diversa, inclusiva e saudável.
 
-Exemplos de comportamentos que contribuem para criar um ambiente positivo para a nossa comunidade incluem:
+## Nossos padrões
 
-- Demonstrar empatia e bondade com as outras pessoas
-- Respeitar opiniões, pontos de vista e experiências contrárias
-- Dar e receber feedbacks construtivos de maneira respeitosa
-- Assumir responsabilidade, pedir desculpas às pessoas afetadas por nossos erros e aprender com a experiência
-- Focar no que é melhor não só para nós individualmente, mas para a comunidade em geral
+Comportamentos que fortalecem nossa comunidade incluem:
 
-Exemplos de comportamentos inaceitáveis incluem:
+- Tratar outras pessoas com empatia e gentileza
+- Respeitar opiniões, vivências e pontos de vista diferentes
+- Oferecer e receber feedbacks de forma construtiva e respeitosa
+- Assumir responsabilidades, pedir desculpas quando necessário e aprender com os erros
+- Priorizar o bem-estar coletivo, e não apenas interesses individuais
 
-- Uso de linguagem ou imagens sexualizadas, bem como o assédio sexual ou de qualquer natureza
-- Comentários insultuosos/depreciativos e ataques pessoais ou políticos (*Trolling*)
-- Assédio público ou privado
-- Publicar informações particulares de outras pessoas, como um endereço de e-mail ou endereço físico, sem a permissão explícita delas
-- Outras condutas que são normalmente consideradas inapropriadas em um ambiente profissional
+Comportamentos inaceitáveis incluem:
 
-## **Aplicação das nossas responsabilidades**
+- Qualquer forma de assédio, intimidação ou discriminação
+- Linguagem ou imagens sexualizadas em contextos inadequados
+- Comentários ofensivos, ataques pessoais ou provocação hostil
+- Contato físico inapropriado ou invasão de espaço pessoal
+- Gravação, fotografia ou exposição de alguém sem consentimento
+- Interrupção deliberada de talks, atividades ou discussões
+- Compartilhamento de informações pessoais sem autorização  
 
-A liderança da comunidade é responsável por esclarecer e aplicar nossos padrões de comportamento aceitáveis e tomará ações corretivas apropriadas e justas em resposta a qualquer comportamento que considerar impróprio, ameaçador, ofensivo ou problemático.
+## Escopo
 
-A liderança da comunidade tem o direito e a responsabilidade de remover, editar ou rejeitar comentários, mensagens, edições na wiki, erros e outras contribuições que não estão alinhadas com este Código de Conduta e irá comunicar as razões por trás das decisões da moderação quando for apropriado.
+Este Código de Conduta se aplica a todos os espaços da Codecon, incluindo:
 
-## **Escopo**
+- Eventos presenciais e online
+- Comunidades (Discord, redes sociais, etc.)
+- Interações relacionadas à Codecon, mesmo fora dos canais oficiais
 
-Este Código de Conduta se aplica dentro de todos os espaços da comunidade e também se aplica quando uma pessoa estiver representando oficialmente a comunidade em espaços públicos. Exemplos de representação da nossa comunidade incluem usar um endereço de e-mail oficial, postar em contas oficiais de mídias sociais ou atuar como uma pessoa indicada como representante em um evento online ou offline.
+Também se aplica a qualquer pessoa que esteja representando a Codecon publicamente.
 
-## **Aplicação**
+## Aplicação e denúncias
 
-Ocorrências de comportamentos abusivos, de assédio ou que sejam inaceitáveis por qualquer outro motivo poderão ser reportadas para a liderança da comunidade, responsável pela aplicação, via contato [ouvidoria@codecon.dev](mailto:ouvidoria@codecon.dev)
+Ocorrências de comportamento abusivo, assédio ou qualquer conduta incompatível com este Código de Conduta podem ser reportadas à liderança responsável pela aplicação, pelo e-mail [ouvidoria@codecon.dev](mailto:ouvidoria@codecon.dev).
 
-Todas as reclamações serão revisadas e investigadas imediatamente e de maneira justa.
+Todas as denúncias serão avaliadas com seriedade, confidencialidade e imparcialidade.
 
-A liderança da comunidade tem a obrigação de respeitar a privacidade e a segurança de quem reportar qualquer incidente.
+A segurança e a privacidade de quem reporta serão respeitadas. 
+Retaliações contra quem denuncia ou participa de uma apuração não serão toleradas.
 
-## **Diretrizes de aplicação**
+## Responsabilidades da liderança
 
-A liderança da comunidade seguirá estas Diretrizes de Impacto na Comunidade para determinar as consequências de qualquer ação que considerar violadora deste Código de Conduta:
+A liderança da Codecon é responsável por:
 
-### 1. Ação Corretiva
+- Interpretar e aplicar este Código de Conduta
+- Tomar decisões justas e proporcionais
+- Garantir um ambiente seguro para todas as pessoas
 
-**Impacto na comunidade**: Uso de linguagem imprópria ou outro comportamento considerado anti-profissional ou repudiado pela comunidade.
+A equipe pode remover conteúdos ou restringir interações que violem estas diretrizes.
 
-**Consequência**: Aviso escrito e privado da liderança da comunidade, esclarecendo a natureza da violação e com a explicação do motivo pelo qual o comportamento era impróprio. Um pedido de desculpas público poderá ser solicitado.
+## Diretrizes de aplicação
+
+As medidas adotadas dependerão da gravidade, recorrência, intenção e impacto da conduta.
+
+### 1. Ação corretiva
+
+Aplicável a situações de menor gravidade ou infrações pontuais, como uso de linguagem imprópria ou comportamento anti-profissional.
+
+**Consequência:** aviso privado por escrito, com explicação da violação e orientação sobre a conduta esperada. Em alguns casos, pode ser solicitado um pedido de desculpas público.
 
 ### 2. Advertência
 
-**Impacto na comunidade**: Violação por meio de um incidente único ou atitudes repetidas.
+Aplicável quando há reincidência ou uma violação que cause impacto relevante na comunidade.
 
-**Consequência**: Advertência com consequências para comportamento repetido. Não poderá haver interações com as pessoas envolvidas, incluindo interações não solicitadas com as pessoas que estiverem aplicando o Código de Conduta, por um período determinado. Isto inclui evitar interações em espaços da comunidade, bem como canais externos como as mídias sociais. A violação destes termos pode levar a um banimento temporário ou permanente.
+**Consequência:** advertência formal, com orientação de que novas ocorrências poderão resultar em restrições. A pessoa poderá ser impedida de interagir com pessoas envolvidas no caso, inclusive em espaços da comunidade e em canais externos, por período determinado.
 
-### 3. Banimento Temporário
+### 3. Banimento temporário
 
-**Impacto na comunidade**: Violação grave dos padrões da comunidade, incluindo a persistência do comportamento impróprio.
+Aplicável a violações graves ou à persistência de comportamento inadequado.
 
-**Consequência**: Banimento temporário de qualquer tipo de interação ou comunicação pública com a comunidade por um determinado período. Estarão proibidas as interações públicas ou privadas com as pessoas envolvidas, incluindo interações não solicitadas com as pessoas que estiverem aplicando o Código de Conduta. A violação destes termos pode resultar em um banimento permanente.
+**Consequência:** suspensão temporária de participação ou comunicação na comunidade, em qualquer meio. Durante esse período, não serão permitidas interações públicas ou privadas com as pessoas envolvidas no caso, inclusive com quem estiver conduzindo a aplicação deste Código.
 
-### 4. Banimento Permanente
+### 4. Banimento permanente
 
-**Impacto na comunidade**: Demonstrar um padrão na violação das normas da comunidade, incluindo a persistência do comportamento impróprio, assédio a uma pessoa ou agressão ou depreciação a classes de pessoas.
+Aplicável a casos de violação reiterada, assédio direcionado, agressão ou discriminação contra pessoas ou grupos.
 
-**Consequência**: Banimento permanente de qualquer tipo de interação pública dentro da comunidade.
+**Consequência:** exclusão permanente da possibilidade de interação pública dentro da comunidade.
 
-## **Atribuição**
+## Nosso compromisso
 
-Este Código de Conduta é adaptado do **[Contributor Covenant](https://www.contributor-covenant.org/)**, versão 2.0, disponível em **[https://www.contributor-covenant.org/version/2/0/code_of_conduct.html](https://www.contributor-covenant.org/version/2/0/code_of_conduct.html)**.
+Queremos que você se sinta bem, seguro(a) e respeitado(a) na Codecon.
 
-As Diretrizes de Impacto na Comunidade foram inspiradas pela **[Aplicação do código de conduta Mozilla](https://github.com/mozilla/diversity)**.
+Se algo não estiver certo, fale com a gente.
+Pessoas como você tornam essa comunidade melhor.
+
+## Atribuição
+
+Este Código de Conduta é baseado no **Contributor Covenant**, versão 2.0, disponível em:  
+https://www.contributor-covenant.org/version/2/0/code_of_conduct.html
+
+As Diretrizes de Aplicação foram inspiradas nas práticas de aplicação do código de conduta da Mozilla.
